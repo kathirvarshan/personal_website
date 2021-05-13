@@ -1,0 +1,34 @@
+body{
+  background-color: mistyrose;
+}
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-color: green;
+  width: 4%;
+}
+h3{
+  color: blue;
+}
+h1{
+  color: purple;
+}
+.circular{
+  background-color: red;
+  border-radius: 100%
+}
+li{
+  color:brown;
+}
+#hello{
+  color:brown;
+}
+p{
+  color:brown;
+}
+label{
+  color:brown;
+}
+#Thank{
+  color:brown;
+}
