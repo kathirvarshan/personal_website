@@ -1,34 +1,41 @@
-body{
-  background-color: mistyrose;
+body
+{
+  background-color: #E4F5F9;
+}
+.div1{
+  text-align: center;
+}
+h1{
+  margin: 0;
+  font-family: 'Dancing Script', cursive;
+}
+#web{
+  font-family: 'Patrick Hand', cursive;
 }
 hr{
   border-style: none;
   border-top: dotted;
-  border-color: green;
+  border-color: red;
   width: 4%;
 }
-h3{
-  color: blue;
+.div1{
+  background-color: #E4F5F9;
+  position: relative;
+  padding: 100px 100px 25px 100px;
 }
-h1{
-  color: purple;
+.c1{
+  position: absolute;
+  right: 250px;
+  top: 25px;
+}
+.c2{
+  position: absolute;
+  left: 250px;
+  bottom: 325px;
 }
 .circular{
-  background-color: red;
-  border-radius: 100%
+  border-radius: 100%;
 }
 li{
-  color:brown;
-}
-#hello{
-  color:brown;
-}
-p{
-  color:brown;
-}
-label{
-  color:brown;
-}
-#Thank{
-  color:brown;
+  font-family: 'Playfair Display', serif;
 }
